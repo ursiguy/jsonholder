@@ -1,6 +1,7 @@
 {
-  "posts": 
-     results:[{"responsecode":200,"success":true,"tempdnis":"9194745893"}]
+  "posts":{
+     "results":[{"responsecode":200,"success":true,"tempdnis":"9194745893"}]
+  }
   ,
   "profile": {
     "name": "typicode"
